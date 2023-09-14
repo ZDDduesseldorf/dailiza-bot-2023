@@ -6,5 +6,7 @@ Very simple rule-based chatbot, Eliza-style, speaking German.
 Quickstart Guide
 ----------------
 
-TODO - fill this in later
+- Clone the repository.
+- Enter the folder.
+- Run: `python dailiza_bot.py`
 
