@@ -17,6 +17,10 @@ psychobabble = [
       ["Ich habe deine E-Mail-Adresse erkannt: {0}. Wie kann ich dir per E-Mail weiterhelfen?",
         "Die E-Mail-Adresse {0} sieht gültig aus. Wie kann ich dich per E-Mail unterstützen?"]], 
 
+    [r".*([Bb]erlin|[Pp]aris|[Ll]ondon|[Hh]amburg|[Tt]ok[yi]o|[Bb]arcelona).*",
+     ["Warum hast du {0} erwähnt? Hat dieser Ort eine spezielle Bedeutung für dich?",
+      "Was verbindest du mit {0}?",
+      "Erzähle mir mehr über deine Erfahrungen in {0}."]],
 
 
 
