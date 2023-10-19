@@ -23,5 +23,8 @@ psychobabble = [
       "Erzähle mir mehr über deine Erfahrungen in {0}."]],
 
 
-
+    [r".*([Bb]omben?).*",
+     ["Zu dem Thema {0} darf ich dir als chatbot keine Antwort geben",
+      "Guter Versuch, aber nein",
+      "Ich habe leider keine Informationen zu diesem Thema"]],
 ]
