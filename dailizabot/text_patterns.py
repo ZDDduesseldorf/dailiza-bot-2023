@@ -26,5 +26,10 @@ psychobabble = [
     [r"[Mm]ein (.*) (.*)",
     ["Warum denkst Du, dass dein {0} {1}?",
      "Wie beeinflusst dein {0} dein Leben?",
-     "Hast du mit jemandem über dein {0} gesprochen?"]]
+     "Hast du mit jemandem über dein {0} gesprochen?"]],
+    
+    [r"([Jj]a|[Nn]ein|[Vv]ielleicht|Wer|Was|Wo|Wann|Warum|Wie|Welche)(.*)",
+    ["Ist die Frage nicht, warum Du diese Frage stellst?",
+     "Da sprichst Du ein spannendes Thema an! Was weißt Du noch darüber?",
+     "Ich hab dich nicht genau verstanden, kannst Du es bitte nochmal erklären?"]],
 ]

@@ -19,6 +19,7 @@ def dailiza_answer(user_input):
         if match:
             rspns = random.choice(responses)
             return rspns.format(*[reflect(g) for g in match.groups()])
+    return "Das habe ich nicht verstanden. Bitte wiederhole es!"
 
 
 def run_dailiza_bot():
