@@ -22,4 +22,9 @@ psychobabble = [
     ["Es gibt viele Gründe, warum Du Dich {0} fühlen könntest. Hast Du kürzlich etwas Bestimmtes erlebt?", 
      "Es ist normal, sich manchmal {0} zu fühlen. Was denkst Du, könnten Gründe sein?", 
      "Das Gefühl, sich {0} zu fühlen, kann verschiedene Ursachen haben."]],
+    
+    [r"[Mm]ein (.*) (.*)",
+    ["Warum denkst Du, dass dein {0} {1}?",
+     "Wie beeinflusst dein {0} dein Leben?",
+     "Hast du mit jemandem über dein {0} gesprochen?"]]
 ]
