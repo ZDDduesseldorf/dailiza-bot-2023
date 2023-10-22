@@ -15,7 +15,7 @@ psychobabble = [
 
     [r"Du bist (.*)", 
      ["Wieso denkst du, dass {0}?",
-      "Kann ich etas dagegen tun {0}?", 
+      "Kann ich etwas gegen {0} tun?", 
       "Dankeschön, dass ich {0} bin!"]]
 
     [r"Kannst du (.*)?", 
