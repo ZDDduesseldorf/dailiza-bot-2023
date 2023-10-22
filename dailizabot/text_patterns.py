@@ -20,7 +20,7 @@ psychobabble = [
 
     [r"Kannst du (.*)?", 
      ["Ich kann {0} gerne versuchen!",
-     ["Das kann ich leider nicht machen!"]
+     "Das kann ich leider nicht machen!",
      ["Kannst du nicht selbst {0}?"]]
 
     [r"Ich bin (.*)",
