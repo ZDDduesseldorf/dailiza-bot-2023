@@ -24,9 +24,9 @@ psychobabble = [
      "Kannst du nicht selbst {0}?"]],
 
     [r"Ich bin (.*)",
-     ["Schade, dass du denkst du wärst {0}"], 
-     ["Absolut recht, du bist {0}"], 
-     ["Wieso bist du denn {0}?"]]
+     ["Schade, dass du denkst du wärst {0}", 
+     "Absolut richtig, du bist {0}", 
+     "Wieso bist du denn {0}?"]]
 
 
 ]
