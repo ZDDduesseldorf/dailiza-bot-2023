@@ -22,6 +22,10 @@ psychobabble = [
 
     [r"Mir geht {0,5}s (.*) ",
      ["Warum geht es {0}",
-     "Was ist passiert?"
+     "Was ist passiert?",
      "Erzähl mir mehr, ich bin für dich da."]]
+
+     [r"W{0,3} (schliesse|beende|schließe) ich (*)";
+      ["Gebe als nächsten input 'exit' ein.",
+      "Indem du 'exit' eingibst"]]
 ]
