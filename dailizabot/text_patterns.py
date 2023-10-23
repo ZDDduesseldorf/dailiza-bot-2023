@@ -18,5 +18,11 @@ psychobabble = [
      "Klar, hier ist einer: Was macht ein Clown im Büro? Faxen!",
      "Warum hat der Mathematiker eine Brille? Weil er mit Zahlen jongliert!",
      "Was ist grün und läuft durch den Wald? Eine Rudel Gurken!"]],
+    
+    [r"Erzaehle mir von (.*)",
+    ["Gerne erzähle ich dir mehr über {0}. Was interessiert dich daran?",
+    "Was möchtest du über {0} wissen?",
+    "Ich kann dir einige Informationen über {0} geben."]],
+
 
 ]
