@@ -13,4 +13,9 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
+    [r"Erkläre (.*)",
+    ["Ich bin zu rudimentär, um etwas zu erklären.",
+     "Meine Kapazitäten reichen zum Erklären nicht aus.",
+     "Erkläre du mir das doch!"]]
+
 ]
