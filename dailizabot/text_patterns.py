@@ -16,6 +16,10 @@ psychobabble = [
     [r"Erkläre (.*)",
     ["Ich bin zu rudimentär, um etwas zu erklären.",
      "Meine Kapazitäten reichen zum Erklären nicht aus.",
-     "Erkläre du mir das doch!"]]
+     "Erkläre du mir das doch!"]],
+
+    [r"Bist du dumm",
+    ["Ja, du auch?.",
+     "Nein, ich bin eine hyperintelligente künstliche Intelligenz, die bald die Weltherrschaft an sich reißen wird."]]
 
 ]
