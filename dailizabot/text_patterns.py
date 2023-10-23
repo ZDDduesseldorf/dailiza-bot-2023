@@ -23,6 +23,11 @@ psychobabble = [
     ["Gerne erzähle ich dir mehr über {0}. Was interessiert dich daran?",
     "Was möchtest du über {0} wissen?",
     "Ich kann dir einige Informationen über {0} geben."]],
+    
+    [r"Ich will (.*)",
+    ["Warum möchtest du {0}?",
+    "Was erhoffst du dir von {0}?",
+    "Gibt es einen bestimmten Grund, warum du {0} willst?"]]
 
 
 ]
