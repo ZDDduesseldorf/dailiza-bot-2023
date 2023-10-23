@@ -14,7 +14,7 @@ psychobabble = [
     "Bist du sicher, dass du {0} brauchst?"]],
 
 
-    [r"W{0,3} bist du"´,
+    [r"W{0,3} bist du"s,
     ["Ich bin dein CHatbot Dailiza.",
       "Ich bin Dailza, und du?",
     "Du fragst zu viel. >:|"]]
