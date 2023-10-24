@@ -12,7 +12,22 @@ psychobabble = [
     ["Warum brauchst du {0}?",
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
-    
+
+    [r"Du bist (.*)", 
+    ["Wieso denkst du, dass {0}?",
+      "Kann ich etwas gegen {0} tun?", 
+      "Dankeschön, dass ich {0} bin!"]],
+
+    [r"Kannst du (.*)?", 
+    ["Ich kann {0} gerne versuchen!",
+     "Das kann ich leider nicht machen!",
+     "Kannst du nicht selbst {0}?"]],
+
+    [r"Ich bin (.*)",
+    ["Schade, dass du denkst du wärst {0}", 
+     "Absolut richtig, du bist {0}", 
+     "Wieso bist du denn {0}?"]],
+
     [r"[Ww]arum bin ich (\b\w+\b)", 
     ["{0} zu sein ist normal. Mach Dir nicht so einen Kopf. ;)",
      "Finde heraus, warum Du {0} sein könntest.", 
