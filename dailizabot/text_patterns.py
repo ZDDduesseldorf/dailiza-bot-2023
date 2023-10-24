@@ -13,4 +13,8 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
+    [r"Ich verstehe (.*) nicht",
+     ["Wieso verstehst du {0} nicht?",
+      "Was genau verstehst du an {0} nicht?",
+      "Hast du schon versucht, dir Hilfe zu suchen, um {0} zu verstehen"]]
 ]
