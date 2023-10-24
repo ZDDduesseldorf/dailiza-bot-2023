@@ -16,5 +16,10 @@ psychobabble = [
     [r"Ich verstehe (.*) nicht",
      ["Wieso verstehst du {0} nicht?",
       "Was genau verstehst du an {0} nicht?",
-      "Hast du schon versucht, dir Hilfe zu suchen, um {0} zu verstehen"]]
+      "Hast du schon versucht, dir Hilfe zu suchen, um {0} zu verstehen"]],
+
+    [r"Ich mag (.*)",
+      ["Was genau gefällt dir an {0}",
+       "Gibt es einen bestimmten Grund, wieso du {0} magst?",
+       "Was würdest du ohne {0} tun"]]
 ]
