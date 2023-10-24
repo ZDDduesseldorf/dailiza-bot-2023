@@ -21,5 +21,10 @@ psychobabble = [
     [r"Ich mag (.*)",
       ["Was genau gefällt dir an {0}",
        "Gibt es einen bestimmten Grund, wieso du {0} magst?",
-       "Was würdest du ohne {0} tun"]]
+       "Was würdest du ohne {0} tun"]],
+
+    [r"Was ist (.*)",
+      ["Ich kann dir leider nicht beantworten, was {0} ist. Ich empfehle dir, es zu recherchieren.",
+       "Ich bin nicht in der Lage dir zu sagen was {0} ist. Aber im Internet findest du sicherlich eine Antwort",
+       "Ich bin mir sicher, dass mein Kollege ChatGPT dir beantworten kann, was {0} ist"]]
 ]
