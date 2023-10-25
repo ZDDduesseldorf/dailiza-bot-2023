@@ -21,6 +21,10 @@ psychobabble = [
 
 
 
+    [r"(.*)\sbist du",
+    ["Ich bin dein Chatbot Dailiza.",
+    "Ich bin Dailza, und du?",
+    "Du fragst zu viel."]]
     
 
     
