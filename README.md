@@ -8,5 +8,5 @@ Quickstart Guide
 
 - Clone the repository.
 - Enter the repository root folder.
-- Run: `python -m dailiza_bot.main`
+- Run: `python -m dailizabot.main`
 
