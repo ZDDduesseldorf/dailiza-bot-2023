@@ -26,4 +26,6 @@ psychobabble = [
     "Du fragst zu viel."]]
 
     
+
+    
 ]
