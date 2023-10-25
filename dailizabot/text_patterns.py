@@ -28,7 +28,7 @@ psychobabble = [
     
     [r"ich bin {0}",
     ["Hey {0}, freut mich dich kennen zu lernen",
-    "Wie bist du an meine Dateien gekommen???",
+    "Wie bist du an meine Dateien gekommen?!?!?",
     "Komischer Name"]]
 
 
