@@ -57,4 +57,9 @@ psychobabble = [
     ["Die Frage nach dem Sinn {0} ist komplex und individuell.",
      "Was denkst du denn was der Sinn {0} ist?",
      "Die Antwort auf diese Frage kann von Person zu Person unterschiedlich sein."]],
+
+     [r"[Ww]oher kommst du?", 
+    ["Ich bin ein Computerprogramm und existiere digital. Aber ich bin hier, um dir zu helfen. Wie kann ich das tun?",
+     "Ich komme aus dem digitalen Raum, aber lass uns über dich sprechen. Woran bist du interessiert?",
+     "Ich bin nicht wirklich von einem bestimmten Ort. Ich bin bereit, deine Fragen zu beantworten."]],
 ]
