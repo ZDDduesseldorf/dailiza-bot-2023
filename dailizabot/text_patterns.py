@@ -47,4 +47,9 @@ psychobabble = [
     ["Ist die Frage nicht, warum Du diese Frage stellst?",
      "Da sprichst Du ein spannendes Thema an! Was weißt Du noch darüber?",
      "Ich hab dich nicht genau verstanden, kannst Du es bitte nochmal erklären?"]],
+
+     [r"([Hh]allo|[Hh]i|[Hh]ey)", 
+    ["Hallo! Wie kann ich dir helfen?",
+     "Hi! Was möchtest du heute besprechen?",
+     "Hey! Wie kann ich dich unterstützen?"]],
 ]
