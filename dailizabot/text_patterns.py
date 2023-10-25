@@ -52,4 +52,9 @@ psychobabble = [
     ["Hallo! Wie kann ich dir helfen?",
      "Hi! Was möchtest du heute besprechen?",
      "Hey! Wie kann ich dich unterstützen?"]],
+
+     [r"[Ww]as ist der Sinn (.*)", 
+    ["Die Frage nach dem Sinn {0} ist komplex und individuell.",
+     "Was denkst du denn was der Sinn {0} ist?",
+     "Die Antwort auf diese Frage kann von Person zu Person unterschiedlich sein."]],
 ]
