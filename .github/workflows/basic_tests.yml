@@ -5,8 +5,12 @@ on:
 
 jobs:
   first_check:
-    name: first code check / python-3.9 / ubuntu-latest
-    runs-on: ubuntu-latest
+    name: first code check / python-${{ matrix.python-version }} / ${{ matrix.os }}
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [macos-latest, ubuntu-latest, windows-latest]
+        python-version: ['3.9', '3.10', '3.11']
     steps:
       - uses: actions/checkout@v3
       - name: Set up Python
