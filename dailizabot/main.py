@@ -1,5 +1,6 @@
 import random
 import re
+
 from dailizabot.reflection import reflect
 from dailizabot.text_patterns import psychobabble
 
