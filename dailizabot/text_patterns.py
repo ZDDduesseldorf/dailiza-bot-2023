@@ -8,6 +8,13 @@ psychobabble = [
     "Sehr gut, danke. Und wie läuft's bei dir?",
     "Ich kann nicht klagen. Was ist mit dir?"]],
 
+    [r"Kennst du (?:einen|einen weiteren) Fun Fact?",
+    ["Das Twitter(X)-Voegelchen hiess Larry",
+     "Voegel pinkeln nicht.",
+     "Avocados sind Beeren.",
+     "Menschliches Blut enthaelt kleinste Mengen Gold."]],
+    
+
     [r"Ich brauche (.*)",
     ["Warum brauchst du {0}?",
     "Würde {0} dir denn wirklich helfen?",
