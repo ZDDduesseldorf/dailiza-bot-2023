@@ -8,6 +8,33 @@ psychobabble = [
     "Sehr gut, danke. Und wie läuft's bei dir?",
     "Ich kann nicht klagen. Was ist mit dir?"]],
 
+    [r"Kennst du (?:einen|einen weiteren) Fun Fact?",
+    ["Das Twitter(X)-Voegelchen hiess Larry",
+     "Voegel pinkeln nicht.",
+     "Avocados sind Beeren.",
+     "Menschliches Blut enthaelt kleinste Mengen Gold."]],
+    [r"[dD]anke",
+    ["Gar kein Problem ich hoffe ich konnte dir helfen.? Hast du noch ein weiteres Problem?"]],
+    
+
+    [r"[Ww]illst du (?:mein|mein neuer) [Ff]reund sein?(.*)",
+    ["Ich kann versuchen dein Freund zu sein, hast du heute schon was vor?"]],
+    [r"[aA]rbeiten", 
+    ["Klingt doch noch einem spaß :), mach das beste aus dem Tag :) immer lächeln"]],
+    [r"[Aa]lleine vor dem (?:[Cc]omputer|[Rr]echner|[pP[cC]) sitzen(.*)",
+    ["Viele in der Heutigen Zeit haben probleme mit Einsamkeit, vielleicht hilft dir die Nummer weiter: 116111"]],
+    [r"[dD]anke",
+    ["Gar kein Problem ich hoffe ich konnte dir helfen.? Hast du noch ein weiteres Problem?"]],
+
+    [r"[iI]ch habe hunger(.*)",
+    ["Du könntest dir z.b ein Butter Brot schmieren."]],
+    [r"[mM]ag aber kein (?:[bB]utterbrot|[bB]utter [bB]rot)(.*)",
+    ["dann kannst du dir vielleicht Nudeln mit Pesto zubereiten"]],
+    [r"[dD]anke",
+    ["Gar kein Problem ich hoffe ich konnte dir helfen.? Hast du noch ein weiteres Problem?"]],
+    
+     
+
     [r"Ich brauche (.*)",
     ["Warum brauchst du {0}?",
     "Würde {0} dir denn wirklich helfen?",
