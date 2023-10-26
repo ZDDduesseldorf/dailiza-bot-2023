@@ -13,6 +13,8 @@ psychobabble = [
      "Voegel pinkeln nicht.",
      "Avocados sind Beeren.",
      "Menschliches Blut enthaelt kleinste Mengen Gold."]],
+    [r"[dD]anke",
+    ["Gar kein Problem ich hoffe ich konnte dir helfen.? Hast du noch ein weiteres Problem?"]],
     
 
     [r"[Ww]illst du (?:mein|mein neuer) [Ff]reund sein?(.*)",
@@ -20,9 +22,18 @@ psychobabble = [
     [r"[aA]rbeiten", 
     ["Klingt doch noch einem spaß :), mach das beste aus dem Tag :) immer lächeln"]],
     [r"[Aa]lleine vor dem (?:[Cc]omputer|[Rr]echner|[pP[cC]) sitzen(.*)",
-     ["Viele in der Heutigen Zeit haben probleme mit Einsamkeit, vielleicht hilft dir die Nummer weiter: 116111"]],
+    ["Viele in der Heutigen Zeit haben probleme mit Einsamkeit, vielleicht hilft dir die Nummer weiter: 116111"]],
+    [r"[dD]anke",
+    ["Gar kein Problem ich hoffe ich konnte dir helfen.? Hast du noch ein weiteres Problem?"]],
 
-
+    [r"[iI]ch habe hunger(.*)",
+    ["Du könntest dir z.b ein Butter Brot schmieren."]],
+    [r"[mM]ag aber kein (?:[bB]utterbrot|[bB]utter [bB]rot)(.*)",
+    ["dann kannst du dir vielleicht Nudeln mit Pesto zubereiten"]],
+    [r"[dD]anke",
+    ["Gar kein Problem ich hoffe ich konnte dir helfen.? Hast du noch ein weiteres Problem?"]],
+    
+     
 
     [r"Ich brauche (.*)",
     ["Warum brauchst du {0}?",
