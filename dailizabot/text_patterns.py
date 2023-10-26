@@ -15,6 +15,15 @@ psychobabble = [
      "Menschliches Blut enthaelt kleinste Mengen Gold."]],
     
 
+    [r"[Ww]illst du (?:mein|mein neuer) [Ff]reund sein?(.*)",
+    ["Ich kann versuchen dein Freund zu sein, hast du heute schon was vor?"]],
+    [r"[aA]rbeiten", 
+    ["Klingt doch noch einem spaß :), mach das beste aus dem Tag :) immer lächeln"]],
+    [r"[Aa]lleine vor dem (?:[Cc]omputer|[Rr]echner|[pP[cC]) sitzen(.*)",
+     ["Viele in der Heutigen Zeit haben probleme mit Einsamkeit, vielleicht hilft dir die Nummer weiter: 116111"]],
+
+
+
     [r"Ich brauche (.*)",
     ["Warum brauchst du {0}?",
     "Würde {0} dir denn wirklich helfen?",
