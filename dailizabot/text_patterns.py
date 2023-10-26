@@ -21,6 +21,12 @@ psychobabble = [
     [r"Was (kann|soll) .*",
      ["Die Entscheidung liegt letztenendes bei dir selber. Hör auf dein Herz und es wird dich leiten.",
       "Du {0}st deine Gedanken noch einmal erforschen um einen neuen Pfad zu finden.",
-      "Niemand {0} dir besser helfen als du selbst."]]
+      "Niemand {0} dir besser helfen als du selbst.",
+      "Man {0} immer einen neuen Weg einschlagen, wenn der jetzige nicht gut ist"]],
+    
+    [r"Hast du bock auf (.*)",
+     ["Ich bin zwar nur ein Chatbot, aber ich lasse mich gerne zu {0} überreden.",
+      "Fühlst du dich vielleicht einsam?",
+      "So ein Zufall, {0} ist meine Lieblingsbeschäftigung!"]]
 
 ]
