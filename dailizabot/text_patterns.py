@@ -53,7 +53,7 @@ psychobabble = [
      "Liebe ist zwar schön, aber denk nochmal genau über {0} nach.",
      "Ehm... naja okay... {0}? Ich weiß ja nicht.."]],
 
-    [r"(.*) macht mir Angst|Sorgen",
+    [r"(.*) macht mir (Angst|Sorgen)",
     ["{0} vergeht schneller, als du denkst.",
      "{0} hat sicher schon vielen Sorge bereitet.",
      "Was wäre eine denkbare Lösung für {0}?"]],
