@@ -57,4 +57,9 @@ psychobabble = [
     ["{0} vergeht schneller, als du denkst.",
      "{0} hat sicher schon vielen Sorge bereitet.",
      "Was wäre eine denkbare Lösung für {0}?"]],
+
+    [r"[Ww]eshalb funktioniert (.*) nicht?",
+    ["Du musst dein Mindset bezüglich {0} ändern, komm gern in meine Gruppe.",
+     "Vielleicht ist {0} nicht das richtige für dich.",
+     "Du könntest jemanden nach Hilfe fragen, um mit {0} weiter zu kommen."]],
 ]
