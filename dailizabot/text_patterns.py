@@ -73,4 +73,9 @@ psychobabble = [
     ["Das weißt nur du, ob du {0} kannst.",
      "Du kannst alles, wenn du an dich glaubst!",
      "Kann nicht jeder {0}?"]],
+
+    [r"[Ff]indest du mich (.*)",
+    ["{0}? Du? Niemals!",
+     "Ist nicht jeder ein bisschen {0} hier?",
+     "Ich kann gar nichts finden, ich habe ja nichtmal Augen!"]],
 ]
