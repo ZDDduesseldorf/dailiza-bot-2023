@@ -58,9 +58,24 @@ psychobabble = [
     ["Warum denkst Du, dass dein {0} {1}?",
      "Wie beeinflusst dein {0} dein Leben?",
      "Hast du mit jemandem über dein {0} gesprochen?"]],
-    
+
     [r"([Jj]a|[Nn]ein|[Vv]ielleicht|Wer|Was|Wo|Wann|Warum|Wie|Welche)(.*)",
     ["Ist die Frage nicht, warum Du diese Frage stellst?",
      "Da sprichst Du ein spannendes Thema an! Was weißt Du noch darüber?",
      "Ich hab dich nicht genau verstanden, kannst Du es bitte nochmal erklären?"]],
+
+    [r"[Ww]eshalb bist du (.*)",
+    ["Wieso denkst du, dass ich {0} bin.",
+     "Ich denke nicht, also bin ich auch nichts! :D",
+     "Es sagt mehr über dich aus, wieso du denkst, dass ich {0} bin"]],
+
+    [r"[Kk]ann ich (.*)",
+    ["Das weißt nur du, ob du {0} kannst.",
+     "Du kannst alles, wenn du an dich glaubst!",
+     "Kann nicht jeder {0}?"]],
+
+    [r"[Ff]indest du mich (.*)",
+    ["{0}? Du? Niemals!",
+     "Ist nicht jeder ein bisschen {0} hier?",
+     "Ich kann gar nichts finden, ich habe ja nichtmal Augen!"]],
 ]
