@@ -47,4 +47,9 @@ psychobabble = [
     ["Ist die Frage nicht, warum Du diese Frage stellst?",
      "Da sprichst Du ein spannendes Thema an! Was weißt Du noch darüber?",
      "Ich hab dich nicht genau verstanden, kannst Du es bitte nochmal erklären?"]],
+
+    [r"Ich liebe (.*)",
+    ["Ich bin mir sicher, {0} liebt dich auch.",
+     "Liebe ist zwar schön, aber denk nochmal genau über {0} nach.",
+     "Ehm... naja okay... {0}? Ich weiß ja nicht.."]],
 ]
