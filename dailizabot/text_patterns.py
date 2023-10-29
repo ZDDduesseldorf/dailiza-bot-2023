@@ -68,4 +68,9 @@ psychobabble = [
     ["Wieso denkst du, dass ich {0} bin.",
      "Ich denke nicht, also bin ich auch nichts! :D",
      "Es sagt mehr über dich aus, wieso du denkst, dass ich {0} bin"]],
+
+    [r"[Kk]ann ich (.*)",
+    ["Das weißt nur du, ob du {0} kannst.",
+     "Du kannst alles, wenn du an dich glaubst!",
+     "Kann nicht jeder {0}?"]],
 ]
