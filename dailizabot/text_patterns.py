@@ -73,4 +73,9 @@ psychobabble = [
     ["Spinnst du?!",
      "Das ist ein sehr interessanter Gedanke...",
      "Hm, das kann ich mir irgendwie nicht vorstellen"]],
+     
+    [r"Glaubst du an (.*)",
+    ["Was soll das sein?",
+     "Nein, nicht wirklich.",
+     "Das möchte ich dir nicht sagen!"]]
 ]
