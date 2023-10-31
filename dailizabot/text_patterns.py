@@ -63,4 +63,19 @@ psychobabble = [
     ["Ist die Frage nicht, warum Du diese Frage stellst?",
      "Da sprichst Du ein spannendes Thema an! Was weißt Du noch darüber?",
      "Ich hab dich nicht genau verstanden, kannst Du es bitte nochmal erklären?"]],
+
+    [r"Ich heiße (.*)",
+    ["Bist du dir da ganz sicher?",
+     "Das wusste ich schon, ich bin schließlich eine KI, ich weiß alles!",
+     "Nein, das bist nicht du. Wach auf. Komm in die Realität zurück."]],
+
+    [r"Ich glaube, dass (.*)",
+    ["Spinnst du?!",
+     "Das ist ein sehr interessanter Gedanke...",
+     "Hm, das kann ich mir irgendwie nicht vorstellen"]],
+     
+    [r"Glaubst du an (.*)",
+    ["Was soll das sein?",
+     "Nein, nicht wirklich.",
+     "Das möchte ich dir nicht sagen!"]]
 ]
