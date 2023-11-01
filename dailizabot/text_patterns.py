@@ -64,15 +64,19 @@ psychobabble = [
      "Da sprichst Du ein spannendes Thema an! Was weißt Du noch darüber?",
      "Ich hab dich nicht genau verstanden, kannst Du es bitte nochmal erklären?"]],
     
-    [r"Bring mir bitte(.*)?", 
-    ["Ich kann {0} gerne versuchen!",
+    [r"Bring (.*) bitte einen Kaffee mit", 
+    ["Ich kann {0} gerne einen mit bringen!",
      "Das kann ich leider nicht machen!",
-     "Kannst du nicht selbst {0} holen?"]],
+     "Kannst du {0} nicht selbst einen Kaffee holen?"]],
     
-    [r"Wo bekomme ich den (.*) her?", 
-    ["Bist du sicher du hattest schon genug {0}.",
-     "Du musst eine andere Lösung finden um wach zu bleiben!",
-     "Ich werde dir keinen {0} mehr holen?"]],
+    [r"Kannst (.*) mir sagen wo ich den Kaffee finde?", 
+    ["{0} mir sicher du hattest schon genug Kaffee.",
+     "Du musst eine andere Lösung finden um Wach zu bleiben!",
+     "{0} werde dir keinen Kaffee mehr holen?"]],
 
+    [r"(.*) machst dir zu viel stress!", 
+    ["Ich bin mir sicher das {0} einfach mit ihm reden solltest!",
+     "Das kann ich leider nicht machen!",
+     "Wen du möchtest kann ich versuchen das {0} hilfe bekommst."]],
 
 ]
