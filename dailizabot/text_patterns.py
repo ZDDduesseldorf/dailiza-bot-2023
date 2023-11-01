@@ -58,6 +58,11 @@ psychobabble = [
     ["Warum denkst Du, dass dein {0} {1}?",
      "Wie beeinflusst dein {0} dein Leben?",
      "Hast du mit jemandem über dein {0} gesprochen?"]],
+
+    [r"[Ww]ieso ist die Banane krumm?",
+    ["Weil sie zu der Sonne wächst",
+     "Die Sonne ist halt warm und angenehm",
+     "Das Gelb von der Sonne zieht die gelbe Banane an"]],
     
     [r"([Jj]a|[Nn]ein|[Vv]ielleicht|Wer|Was|Wo|Wann|Warum|Wie|Welche)(.*)",
     ["Ist die Frage nicht, warum Du diese Frage stellst?",
