@@ -33,6 +33,11 @@ psychobabble = [
     ["Wieso denkst du, dass {0}?",
       "Kann ich etwas gegen {0} tun?", 
       "Dankeschön, dass ich {0} bin!"]],
+    
+    [r"[Kk]annst du mir etwas über (.*) (?:sagen|erzählen)?",
+     ["Was willst du über {0} wissen?",
+      "Es gibt viele Bücher in denen du etwas über {0} nachlesen kannst.",
+      "Ja natürlich, aber über {0} gibt es so viel, kannst du deine Frage ein bisschen genauer stellen?"]],
 
     [r"Kannst du (.*)?", 
     ["Ich kann {0} gerne versuchen!",
