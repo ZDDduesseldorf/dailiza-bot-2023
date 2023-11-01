@@ -68,6 +68,11 @@ psychobabble = [
     ["Nein ich habe nicht {0} !",
       "Ja ich habe {0}, wieso fragst du?", 
       "Nach {0} fragt man nicht!"]],
+
+    [r"[Kk]annst du (.*) und (.*) ?",
+    ["{0} und {1} kann ich seit dem ich 4 bin!",
+     "{0} und {1} kann ich nicht, geh mal weg",
+     "Nein, kannst du {0} und {1}?"]],
     
     [r"([Jj]a|[Nn]ein|[Vv]ielleicht|Wer|Was|Wo|Wann|Warum|Wie|Welche)(.*)",
     ["Ist die Frage nicht, warum Du diese Frage stellst?",
