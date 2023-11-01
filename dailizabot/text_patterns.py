@@ -62,12 +62,5 @@ psychobabble = [
     [r"([Jj]a|[Nn]ein|[Vv]ielleicht|Wer|Was|Wo|Wann|Warum|Wie|Welche)(.*)",
     ["Ist die Frage nicht, warum Du diese Frage stellst?",
      "Da sprichst Du ein spannendes Thema an! Was weißt Du noch darüber?",
-     "Ich hab dich nicht genau verstanden, kannst Du es bitte nochmal erklären?"]],
-
-    [r"[Ww]arum ist die Banane krumm?",
-    ["Weil sie zu der Sonne wächst",
-     "Die Sonne ist halt warm und angenehm",
-     "Das Gelb von der Sonne zieht die gelbe Banane an"]],
-
-
+     "Ich hab dich nicht genau verstanden, kannst Du es bitte nochmal erklären?"]]
 ]
