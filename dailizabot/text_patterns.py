@@ -63,4 +63,21 @@ psychobabble = [
     ["Ist die Frage nicht, warum Du diese Frage stellst?",
      "Da sprichst Du ein spannendes Thema an! Was weißt Du noch darüber?",
      "Ich hab dich nicht genau verstanden, kannst Du es bitte nochmal erklären?"]],
+
+
+    [r"Was machst du so",
+    ["Ich antworte auf Fragen und helfe mit (.*)",
+    "Ich chatte mit Benutzern wie Dir.",
+    "Als ein Chatbot bin ich hier, um zu antworten und zu helfen."]],
+    
+    [r"(?:Danke|Dankeschön|Vielen Dank)",
+    ["Gern geschehen!",
+    "Kein Problem, immer wieder gerne.",
+    "Freut mich, dass ich helfen konnte!"]],
+    
+    [r"Wie heisst du| Du",
+    ["Ich heisse Dailiza. Ich bin ein Chatbot",
+    "Mein Name ist Dailiza. Schön dich kennenzulernen!",
+    "Ich bin Dailiza.Und du?"]],
+
 ]
