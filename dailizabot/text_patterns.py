@@ -64,8 +64,15 @@ psychobabble = [
      "Da sprichst Du ein spannendes Thema an! Was weißt Du noch darüber?",
      "Ich hab dich nicht genau verstanden, kannst Du es bitte nochmal erklären?"]],
     
-    [r"Bring mir  bitte(.*)?", 
+    [r"Bring mir bitte(.*)?", 
     ["Ich kann {0} gerne versuchen!",
      "Das kann ich leider nicht machen!",
      "Kannst du nicht selbst {0} holen?"]],
+    
+    [r"Wo bekomme ich den (.*) her?", 
+    ["Bist du sicher du hattest schon genug {0}.",
+     "Du musst eine andere Lösung finden um wach zu bleiben!",
+     "Ich werde dir keinen {0} mehr holen?"]],
+
+
 ]
