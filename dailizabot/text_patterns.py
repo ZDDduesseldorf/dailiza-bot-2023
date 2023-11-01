@@ -59,6 +59,11 @@ psychobabble = [
       "Ich möchte nicht erzählen was mein Lieblings{0} ist.",
       "Ich bin nur ein Chatbot und habe kein Lieblings{0}"]], 
     
+    [r"[Ww]as weißt du über (\b\w+\b)?",
+    ["{0} ist ein sehr kompliziertes Thema.",
+    "{0} ist wichtig.",
+    "Es ist gut, das du dich für {0} interessierst."]],    
+    
     [r"[Mm]ein (.*) (.*)",
     ["Warum denkst Du, dass dein {0} {1}?",
      "Wie beeinflusst dein {0} dein Leben?",
