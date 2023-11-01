@@ -53,6 +53,11 @@ psychobabble = [
     ["Es gibt viele Gründe, warum Du Dich {0} fühlen könntest. Hast Du kürzlich etwas Bestimmtes erlebt?", 
      "Es ist normal, sich manchmal {0} zu fühlen. Was denkst Du, könnten Gründe sein?", 
      "Das Gefühl, sich {0} zu fühlen, kann verschiedene Ursachen haben."]],
+
+    [r"[Ww]as ist dein[e] [Ll]ieblings(\w+\b)",
+    ["Erzähl doch erstmal, was dein Lieblings{0} ist?",
+      "Ich möchte nicht erzählen was mein Lieblings{0} ist.",
+      "Ich bin nur ein Chatbot und habe kein Lieblings{0}"]], 
     
     [r"[Mm]ein (.*) (.*)",
     ["Warum denkst Du, dass dein {0} {1}?",
