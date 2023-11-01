@@ -13,6 +13,21 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
+    [r"Was bedeutet (.*)",
+    ["Ich bin nicht sicher, was du meinst.",
+    "Kannst du das bitte präzisieren?",
+    "Das ist außerhalb meiner Kenntnisse."]],
+ 
+    [r"Kannst du (.*) machen",
+    ["Ich bin nur ein Chatbot, ich kann das nicht tun.",
+    "Das liegt leider nicht in meinen Fähigkeiten.",
+    "Versuche es bitte selbst!"]],
+ 
+    [r"Erkläre (.*)",
+    ["Ich bin zu rudimentär, um etwas zu erklären.",
+     "Meine Kapazitäten reichen zum Erklären nicht aus.",
+     "Erkläre du mir das doch!"]],
+
     [r"[Ee]rzaehle mir (?:einen|einen weiteren) Witz",
     ["Natürlich! Hier ist ein Witz für dich: Warum hat der Kühlschrank den Laptop nicht bezahlt? Weil er schon eine eigene Rechnung hatte!",
      "Klar, hier ist einer: Was macht ein Clown im Büro? Faxen!",
