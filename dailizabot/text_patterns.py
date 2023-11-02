@@ -72,5 +72,8 @@ psychobabble = [
     ["Das wirst du schon schaffen.",
      "Du musst es nur immer weiter versuchen."]],
     
-    
+    [r"ich kann nicht (.*)",
+    ["Das ist kein Grund sich zu Schämen, vielleicht, wenn du dir Hilfe suchst, geht es besser.",
+     "Erläuter das, damit ich dir besser helfen kann,"
+    ]], 
 ]
