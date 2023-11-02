@@ -63,4 +63,11 @@ psychobabble = [
     ["Ist die Frage nicht, warum Du diese Frage stellst?",
      "Da sprichst Du ein spannendes Thema an! Was weißt Du noch darüber?",
      "Ich hab dich nicht genau verstanden, kannst Du es bitte nochmal erklären?"]],
-]
+    
+   
+    [r"[Ii]ch fühle mich als (.*)"
+    ["Na klar, fühl dich frei dich als {0} zu fühlen", 
+     "Schön, dass du dich als {0} identifizierst.",
+     "Was ist das Besondere daran, {0} zu sein?"]
+
+    ]
