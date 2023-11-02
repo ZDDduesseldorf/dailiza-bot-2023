@@ -63,4 +63,17 @@ psychobabble = [
     ["Ist die Frage nicht, warum Du diese Frage stellst?",
      "Da sprichst Du ein spannendes Thema an! Was weißt Du noch darüber?",
      "Ich hab dich nicht genau verstanden, kannst Du es bitte nochmal erklären?"]],
+    
+    [r"Ich habe ein Problem mit (.*)",
+    ["Schade das du ein Problem mit {0} hast, erzähl mir mehr damit ich dir weiter helfen kann.",     
+    ]],
+    
+    [r"Ich kann (.*) nicht",
+    ["Das wirst du schon schaffen.",
+     "Du musst es nur immer weiter versuchen."]],
+    
+    [r"ich kann nicht (.*)",
+    ["Das ist kein Grund sich zu Schämen, vielleicht, wenn du dir Hilfe suchst, geht es besser.",
+     "Erläuter das, damit ich dir besser helfen kann,"
+    ]], 
 ]
