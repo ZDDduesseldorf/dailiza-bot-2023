@@ -78,4 +78,9 @@ psychobabble = [
       "Ich bin ein Sprachmodell, also habe ich keine Vorlieben. Aber ich kann dir sagen, dass Blau die beliebteste {0} in der Welt ist."]
     ]
 
-]
+    [r"Was ist der Sinn [von|des] {0}?"
+    ["Der Sinn des {0} ist eine Frage, die sich die Menschen seit Jahrhunderten stellen. Es gibt keine einfache Antwort, aber einige Menschen glauben, dass der Sinn des {0} darin besteht, glücklich zu sein, andere glauben, dass es darin besteht, einen Beitrag zur Welt zu leisten, und wieder andere glauben, dass es einfach darin besteht, zu leben und die Erfahrungen zu genießen.",
+     "Ich bin ein Sprachmodell, also kann ich dir diese Frage nicht beantworten. Aber ich kann dir sagen, dass es viele verschiedene Meinungen darüber gibt, was der Sinn des {0} ist.",
+     "Der Sinn des {0} ist eine Frage, die jeder für sich selbst beantworten muss. Es gibt keine richtige oder falsche Antwort."]
+    ]
+  ]
