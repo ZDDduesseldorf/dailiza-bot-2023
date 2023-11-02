@@ -67,5 +67,10 @@ psychobabble = [
     [r"Ich habe ein Problem mit (.*)",
     ["Schade das du ein Problem mit {0} hast, erzähl mir mehr damit ich dir weiter helfen kann.",     
     ]],
-
+    
+    [r"Ich kann (.*) nicht",
+    ["Das wirst du schon schaffen.",
+     "Du musst es nur immer weiter versuchen."]],
+    
+    
 ]
