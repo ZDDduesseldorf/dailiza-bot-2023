@@ -71,3 +71,11 @@ psychobabble = [
      "Was ist das Besondere daran, {0} zu sein?"]
 
     ]
+    
+    [r"[wW]as ist deine [Ll]ieblings(.*)?"
+     ["Meine Lieblings{0} ist Blau. Sie ist ruhig und beruhigend.",
+      "Ich habe keine Lieblings{0}. Ich kann {0} zwar erkennen, aber ich habe keine persönlichen Vorlieben.",
+      "Ich bin ein Sprachmodell, also habe ich keine Vorlieben. Aber ich kann dir sagen, dass Blau die beliebteste {0} in der Welt ist."]
+    ]
+
+]
