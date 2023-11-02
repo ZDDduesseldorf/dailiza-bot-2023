@@ -63,4 +63,9 @@ psychobabble = [
     ["Ist die Frage nicht, warum Du diese Frage stellst?",
      "Da sprichst Du ein spannendes Thema an! Was weißt Du noch darüber?",
      "Ich hab dich nicht genau verstanden, kannst Du es bitte nochmal erklären?"]],
+    
+    [r"Ich habe ein Problem mit (.*)",
+    ["Schade das du ein Problem mit {0} hast, erzähl mir mehr damit ich dir weiter helfen kann.",     
+    ]],
+
 ]
